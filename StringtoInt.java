@@ -24,7 +24,7 @@ public class StringtoInt {
             for(int i=0;i<w;i++){
                 char a=s1.charAt(i);
                  f=(int)a;
-                 d=f-48;System.out.println("After Convert  "+d);
+                 System.out.println("After Convert  "+f);
         }
     }
 }
